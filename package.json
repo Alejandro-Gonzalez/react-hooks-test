@@ -5,9 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
-    "react-scripts": "2.0.3"
+    "form-serialize": "0.7.2",
+    "react": "16.7.0-alpha.2",
+    "react-dom": "16.7.0-alpha.2",
+    "react-scripts": "2.0.3",
+    "uid-safe": "2.1.5"
   },
   "devDependencies": {},
   "scripts": {
